@@ -1,0 +1,1 @@
+# mcm2026-problem-c
