@@ -1,0 +1,9 @@
+season,rule_name,acc,controversial_rate,score,alpha_mode,alpha_start,alpha_end,alpha_fixed,protect_top_quartile,n_weeks_evaluated
+3,A(0.70→0.30)+Prot,0.5,0.0,0.5,adaptive,0.7,0.3,0.5,1,8
+3,A(0.65→0.35)+Prot,0.5,0.0,0.5,adaptive,0.65,0.35,0.5,1,8
+3,A(0.60→0.40)+Prot,0.5,0.0,0.5,adaptive,0.6,0.4,0.5,1,8
+3,A(0.65→0.35)+NoProt,0.5,0.0,0.5,adaptive,0.65,0.35,0.5,0,8
+3,F(0.55)+Prot,0.5,0.0,0.5,fixed,0.65,0.35,0.55,1,8
+3,F(0.50)+Prot,0.5,0.0,0.5,fixed,0.65,0.35,0.5,1,8
+3,F(0.60)+Prot,0.5,0.0,0.5,fixed,0.65,0.35,0.6,1,8
+3,F(0.55)+NoProt,0.5,0.0,0.5,fixed,0.65,0.35,0.55,0,8

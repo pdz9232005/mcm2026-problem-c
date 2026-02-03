@@ -1,0 +1,81 @@
+season,week,rule_name,alpha_week,protect_top_quartile,actual_elim,pred_newrule_elim,newrule_matches_actual,pred_elim_in_judge_top_quartile
+5,1,A(0.70→0.30)+Prot,0.6636363636363636,1,Josie Maran,Josie Maran,1,0
+5,2,A(0.70→0.30)+Prot,0.6272727272727272,1,Albert Reed,Wayne Newton,0,0
+5,3,A(0.70→0.30)+Prot,0.5909090909090908,1,Wayne Newton,Wayne Newton,1,0
+5,4,A(0.70→0.30)+Prot,0.5545454545454546,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,A(0.70→0.30)+Prot,0.5181818181818181,1,Mark Cuban,Mark Cuban,1,0
+5,6,A(0.70→0.30)+Prot,0.4818181818181818,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,A(0.70→0.30)+Prot,0.44545454545454544,1,Jane Seymour,Cameron Mathison,0,0
+5,8,A(0.70→0.30)+Prot,0.40909090909090906,1,Cameron Mathison,Jennie Garth,0,0
+5,9,A(0.70→0.30)+Prot,0.3727272727272727,1,Jennie Garth,Jennie Garth,1,0
+5,10,A(0.70→0.30)+Prot,0.33636363636363636,1,,Helio Castroneves,,0
+5,1,A(0.65→0.35)+Prot,0.6227272727272728,1,Josie Maran,Josie Maran,1,0
+5,2,A(0.65→0.35)+Prot,0.5954545454545453,1,Albert Reed,Wayne Newton,0,0
+5,3,A(0.65→0.35)+Prot,0.5681818181818182,1,Wayne Newton,Wayne Newton,1,0
+5,4,A(0.65→0.35)+Prot,0.5409090909090909,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,A(0.65→0.35)+Prot,0.5136363636363637,1,Mark Cuban,Mark Cuban,1,0
+5,6,A(0.65→0.35)+Prot,0.48636363636363633,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,A(0.65→0.35)+Prot,0.4590909090909091,1,Jane Seymour,Cameron Mathison,0,0
+5,8,A(0.65→0.35)+Prot,0.43181818181818177,1,Cameron Mathison,Jennie Garth,0,0
+5,9,A(0.65→0.35)+Prot,0.40454545454545454,1,Jennie Garth,Jennie Garth,1,0
+5,10,A(0.65→0.35)+Prot,0.3772727272727273,1,,Helio Castroneves,,0
+5,1,A(0.60→0.40)+Prot,0.5818181818181818,1,Josie Maran,Josie Maran,1,0
+5,2,A(0.60→0.40)+Prot,0.5636363636363636,1,Albert Reed,Wayne Newton,0,0
+5,3,A(0.60→0.40)+Prot,0.5454545454545454,1,Wayne Newton,Wayne Newton,1,0
+5,4,A(0.60→0.40)+Prot,0.5272727272727272,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,A(0.60→0.40)+Prot,0.509090909090909,1,Mark Cuban,Mark Cuban,1,0
+5,6,A(0.60→0.40)+Prot,0.49090909090909096,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,A(0.60→0.40)+Prot,0.4727272727272728,1,Jane Seymour,Cameron Mathison,0,0
+5,8,A(0.60→0.40)+Prot,0.4545454545454546,1,Cameron Mathison,Jennie Garth,0,0
+5,9,A(0.60→0.40)+Prot,0.4363636363636364,1,Jennie Garth,Jennie Garth,1,0
+5,10,A(0.60→0.40)+Prot,0.4181818181818182,1,,Helio Castroneves,,0
+5,1,A(0.65→0.35)+NoProt,0.6227272727272728,0,Josie Maran,Josie Maran,1,0
+5,2,A(0.65→0.35)+NoProt,0.5954545454545453,0,Albert Reed,Wayne Newton,0,0
+5,3,A(0.65→0.35)+NoProt,0.5681818181818182,0,Wayne Newton,Wayne Newton,1,0
+5,4,A(0.65→0.35)+NoProt,0.5409090909090909,0,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,A(0.65→0.35)+NoProt,0.5136363636363637,0,Mark Cuban,Mark Cuban,1,0
+5,6,A(0.65→0.35)+NoProt,0.48636363636363633,0,Sabrina Bryan,Jane Seymour,0,0
+5,7,A(0.65→0.35)+NoProt,0.4590909090909091,0,Jane Seymour,Cameron Mathison,0,0
+5,8,A(0.65→0.35)+NoProt,0.43181818181818177,0,Cameron Mathison,Jennie Garth,0,0
+5,9,A(0.65→0.35)+NoProt,0.40454545454545454,0,Jennie Garth,Jennie Garth,1,0
+5,10,A(0.65→0.35)+NoProt,0.3772727272727273,0,,Mel B,,1
+5,1,F(0.55)+Prot,0.55,1,Josie Maran,Josie Maran,1,0
+5,2,F(0.55)+Prot,0.55,1,Albert Reed,Wayne Newton,0,0
+5,3,F(0.55)+Prot,0.55,1,Wayne Newton,Wayne Newton,1,0
+5,4,F(0.55)+Prot,0.55,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,F(0.55)+Prot,0.55,1,Mark Cuban,Mark Cuban,1,0
+5,6,F(0.55)+Prot,0.55,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,F(0.55)+Prot,0.55,1,Jane Seymour,Cameron Mathison,0,0
+5,8,F(0.55)+Prot,0.55,1,Cameron Mathison,Jennie Garth,0,0
+5,9,F(0.55)+Prot,0.55,1,Jennie Garth,Jennie Garth,1,0
+5,10,F(0.55)+Prot,0.55,1,,Helio Castroneves,,0
+5,1,F(0.50)+Prot,0.5,1,Josie Maran,Josie Maran,1,0
+5,2,F(0.50)+Prot,0.5,1,Albert Reed,Wayne Newton,0,0
+5,3,F(0.50)+Prot,0.5,1,Wayne Newton,Wayne Newton,1,0
+5,4,F(0.50)+Prot,0.5,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,F(0.50)+Prot,0.5,1,Mark Cuban,Mark Cuban,1,0
+5,6,F(0.50)+Prot,0.5,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,F(0.50)+Prot,0.5,1,Jane Seymour,Cameron Mathison,0,0
+5,8,F(0.50)+Prot,0.5,1,Cameron Mathison,Jennie Garth,0,0
+5,9,F(0.50)+Prot,0.5,1,Jennie Garth,Jennie Garth,1,0
+5,10,F(0.50)+Prot,0.5,1,,Helio Castroneves,,0
+5,1,F(0.60)+Prot,0.6,1,Josie Maran,Josie Maran,1,0
+5,2,F(0.60)+Prot,0.6,1,Albert Reed,Wayne Newton,0,0
+5,3,F(0.60)+Prot,0.6,1,Wayne Newton,Wayne Newton,1,0
+5,4,F(0.60)+Prot,0.6,1,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,F(0.60)+Prot,0.6,1,Mark Cuban,Mark Cuban,1,0
+5,6,F(0.60)+Prot,0.6,1,Sabrina Bryan,Jane Seymour,0,0
+5,7,F(0.60)+Prot,0.6,1,Jane Seymour,Cameron Mathison,0,0
+5,8,F(0.60)+Prot,0.6,1,Cameron Mathison,Jennie Garth,0,0
+5,9,F(0.60)+Prot,0.6,1,Jennie Garth,Jennie Garth,1,0
+5,10,F(0.60)+Prot,0.6,1,,Helio Castroneves,,0
+5,1,F(0.55)+NoProt,0.55,0,Josie Maran,Josie Maran,1,0
+5,2,F(0.55)+NoProt,0.55,0,Albert Reed,Wayne Newton,0,0
+5,3,F(0.55)+NoProt,0.55,0,Wayne Newton,Wayne Newton,1,0
+5,4,F(0.55)+NoProt,0.55,0,Floyd Mayweather Jr. ,Mark Cuban,0,0
+5,5,F(0.55)+NoProt,0.55,0,Mark Cuban,Mark Cuban,1,0
+5,6,F(0.55)+NoProt,0.55,0,Sabrina Bryan,Jane Seymour,0,0
+5,7,F(0.55)+NoProt,0.55,0,Jane Seymour,Cameron Mathison,0,0
+5,8,F(0.55)+NoProt,0.55,0,Cameron Mathison,Jennie Garth,0,0
+5,9,F(0.55)+NoProt,0.55,0,Jennie Garth,Jennie Garth,1,0
+5,10,F(0.55)+NoProt,0.55,0,,Mel B,,1

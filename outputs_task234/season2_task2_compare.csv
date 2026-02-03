@@ -1,0 +1,9 @@
+season,week,actual_elim,elim_rank_method,elim_percent_method,rank_matches_actual,percent_matches_actual,rank_equals_percent
+2,1,Kenny Mayne,Lisa Rinna,Kenny Mayne,0,1,0
+2,2,Tatum O'Neal,Lisa Rinna,Tatum O'Neal,0,1,0
+2,3,Giselle Fernandez,Giselle Fernandez,Master P,1,0,0
+2,4,Master P,George Hamilton,Master P,0,1,0
+2,5,Tia Carrere,Tia Carrere,Tia Carrere,1,1,1
+2,6,George Hamilton,George Hamilton,George Hamilton,1,1,1
+2,7,Lisa Rinna,Lisa Rinna,Lisa Rinna,1,1,1
+2,8,,Stacy Keibler,Stacy Keibler,,,1

@@ -1,0 +1,2 @@
+season,beta_intercept,beta_judge_z,R2,"PearsonCorr(judge_z, fan_share)","SpearmanCorr(judge_z, fan_share)",n_rows
+2,0.15384615384615385,-0.010470492890415486,0.022712347461773308,-0.15070616264068248,-0.03624797252074243,52

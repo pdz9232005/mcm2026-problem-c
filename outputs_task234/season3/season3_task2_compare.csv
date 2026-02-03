@@ -1,0 +1,11 @@
+season,week,actual_elim,elim_rank_method,elim_percent_method,rank_matches_actual,percent_matches_actual,rank_equals_percent
+3,1,Tucker Carlson,Harry Hamlin,Tucker Carlson,0,1,0
+3,2,Shanna Moakler,Harry Hamlin,Harry Hamlin,0,0,1
+3,3,Harry Hamlin,Willa Ford,Willa Ford,0,0,1
+3,4,Vivica A. Fox,Vivica A. Fox,Sara Evans,1,0,0
+3,5,Willa Ford,Sara Evans,Sara Evans,0,0,1
+3,6,,Monique Coleman,Jerry Springer,,,0
+3,7,Jerry Springer,Monique Coleman,Jerry Springer,0,1,0
+3,8,Monique Coleman,Monique Coleman,Monique Coleman,1,1,1
+3,9,Joey Lawrence,Joey Lawrence,Joey Lawrence,1,1,1
+3,10,,Mario Lopez,Mario Lopez,,,1

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (choose strategy)
+# 如果你要上传 outputs，就把下面两行注释掉
+# outputs/
+# outputs_task234/
+
+# Big files / traces
+*.nc
+*.pkl
+*.zip

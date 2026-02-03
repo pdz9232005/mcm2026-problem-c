@@ -1,0 +1,9 @@
+season,week,rule_name,alpha_week,protect_top_quartile,actual_elim,pred_newrule_elim,newrule_matches_actual,pred_elim_in_judge_top_quartile
+2,1,A(0.70→0.30)+Prot,0.6636363636363636,1,Kenny Mayne,Kenny Mayne,1,0
+2,2,A(0.70→0.30)+Prot,0.6272727272727272,1,Tatum O'Neal,Tatum O'Neal,1,0
+2,3,A(0.70→0.30)+Prot,0.5909090909090908,1,Giselle Fernandez,Master P,0,0
+2,4,A(0.70→0.30)+Prot,0.5545454545454546,1,Master P,Master P,1,0
+2,5,A(0.70→0.30)+Prot,0.5181818181818181,1,Tia Carrere,Tia Carrere,1,0
+2,6,A(0.70→0.30)+Prot,0.4818181818181818,1,George Hamilton,George Hamilton,1,0
+2,7,A(0.70→0.30)+Prot,0.44545454545454544,1,Lisa Rinna,Lisa Rinna,1,0
+2,8,A(0.70→0.30)+Prot,0.40909090909090906,1,,Stacy Keibler,,0

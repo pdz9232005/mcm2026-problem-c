@@ -1,0 +1,11 @@
+season,week,actual_elim,elim_rank_method,elim_percent_method,rank_matches_actual,percent_matches_actual,rank_equals_percent
+5,1,Josie Maran,Josie Maran,Josie Maran,1,1,1
+5,2,Albert Reed,Jennie Garth,Wayne Newton,0,0,0
+5,3,Wayne Newton,Wayne Newton,Wayne Newton,1,1,1
+5,4,Floyd Mayweather Jr. ,Floyd Mayweather Jr. ,Mark Cuban,1,0,0
+5,5,Mark Cuban,Mark Cuban,Mark Cuban,1,1,1
+5,6,Sabrina Bryan,Sabrina Bryan,Jane Seymour,1,0,0
+5,7,Jane Seymour,Cameron Mathison,Cameron Mathison,0,0,1
+5,8,Cameron Mathison,Jennie Garth,Jennie Garth,0,0,1
+5,9,Jennie Garth,Jennie Garth,Jennie Garth,1,1,1
+5,10,,Helio Castroneves,Mel B,,,0
