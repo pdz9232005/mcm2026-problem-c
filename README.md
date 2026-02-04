@@ -15,16 +15,22 @@ This repository contains the code and outputs used in our MCM 2026 Problem C sub
 1. Install dependencies:
 ```bash
 pip install numpy pandas matplotlib pymc arviz
-Run Task 1:
+```
 
+2. Run Task 1:
+```bash
 python first.py
-Run Task 2–4:
+```
 
+3. Run Task 2–4:
+```bash
 python task234.py
+```
+
 All figures and CSV summaries will be generated into outputs/ and outputs_task234/.
 
-Note
+## Note
 Due to time and environment constraints, random seeds and runtime may cause minor numerical differences, but all qualitative conclusions remain stable.
 
-License
+## License
 For academic and educational use only.
